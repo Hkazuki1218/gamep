@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+  <head>
+    <title>歴史シュミレーション</title>
+  </head>
+  <body>
+    <div>
+      <h1><center>歴史シュミレーション</center></h1>
+      <p>これはテストです</p>
+    </div>
+  </body>
+</html>
+<style>
+  body{
+    background-image:url(image/IMG_0135.jpeg);
+    background-size:cover;
+  }
