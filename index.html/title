@@ -11,6 +11,6 @@
 </html>
 <style>
   body{
-    background-image:url(image/IMG_0135.jpeg);
+    background-image:url(index.html/IMG_0135.jpeg);
     background-size:cover;
   }
