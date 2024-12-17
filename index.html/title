@@ -8,9 +8,10 @@
       <p>これはテストです</p>
     </div>
   </body>
+  <style>
+    body{
+      background-image:url(index.html/IMG_0135.jpeg);
+      background-size:cover;
+    }
+  </style>
 </html>
-<style>
-  body{
-    background-image:url(index.html/IMG_0135.jpeg);
-    background-size:cover;
-  }
